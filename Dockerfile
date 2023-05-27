@@ -1,2 +1,2 @@
-FROM hshar/webapp
+FROM SaurabhVikas/website
 ADD ./website /var/www/html/website
